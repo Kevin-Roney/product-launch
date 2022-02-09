@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,600&family=Space+Mono&display=swap');
+*{/* CSS HEX */
+--blood-red: #641509ff;
+--deep-jungle-green: #195C5Fff;
+--persian-red: #C9342Cff;
+--viridian-green: #2CA1A5ff;
+--dark-jungle-green: #192B2Cff;
+}
+
+img{
+    width: 100vw;
+}
+
+#info {
+    background-color: var(--viridian-green);
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    
+}
